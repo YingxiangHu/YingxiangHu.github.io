@@ -1,4 +1,4 @@
-- <strong>Y. Hu</strong>, M. N. Ivaki, J. Scheuer: Capillary Christoffel-Minkowski problem, <strong>arXiv: .</strong>(2025) [[Link]](https://arxiv.org/pdf/2504.09320)
+- <strong>Y. Hu</strong>, M. N. Ivaki, J. Scheuer: Capillary Christoffel-Minkowski problem, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2504.09320)
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Stability of the cone-volume measure with near constant density, <strong>IMRN.</strong>(2025) [[Link]](https://doi.org/10.1093/imrn/rnaf062)
 
