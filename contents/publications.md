@@ -12,6 +12,8 @@
 
 - <strong>Y. Hu</strong>, Y. Wei, B. Yang, T. L. Zhou: On the mean curvature type flow for convex capillary hypersurfaces in the ball, <strong>Calc. Var.</strong> (2023) 62:209. [[Link]](https://doi.org/10.1007/s00526-023-02554-y)
 
+- <strong>Y. Hu</strong>, H. Li: Geometric inequalities for static convex domains in hyperbolic space, <strong>Trans. Amer. Math. Soc.</strong> 375, 5587--5615 (2022). [[Link]](https://doi.org/10.1090/tran/8628)
+
 
 
 
