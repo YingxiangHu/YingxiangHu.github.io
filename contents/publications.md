@@ -8,7 +8,7 @@
 
 - <strong>Y. Hu</strong>, Y. Wei, B. Yang, T. L. Zhou: A complete family of Alexandrov–Fenchel inequalities for convex capillary hypersurfaces in the half-space, <strong>Math. Ann.</strong> 390, 3039--3075 (2024). [[Link]](https://link.springer.com/article/10.1007/s00208-024-02841-9)
 
-- <strong>Y. Hu</strong>, Y. Wei, B. Yang, T. L. Zhou: On the mean curvature type flow for convex capillary hypersurfaces in the ball, <strong>Calc. Var.</strong> (2023) 62:209. [[Link]]([https://link.springer.com/article/10.1007/s00208-024-02841-9](https://doi.org/10.1007/s00526-023-02554-y))
+- <strong>Y. Hu</strong>, Y. Wei, B. Yang, T. L. Zhou: On the mean curvature type flow for convex capillary hypersurfaces in the ball, <strong>Calc. Var.</strong> (2023) 62:209. [[Link]](https://doi.org/10.1007/s00526-023-02554-y)
 
 
 
