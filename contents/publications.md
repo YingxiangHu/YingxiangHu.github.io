@@ -2,7 +2,7 @@
 
 - <strong>Y. Hu</strong>, Y. Wei, C. Xia, T. L. Zhou: A Heintze-Karcher-type inequality for capillary hypersurfaces in a hyperbolic half-space, <strong>J. Funct. Anal.</strong>(2025) [[Link]](https://doi.org/10.1016/j.jfa.2025.110970)
 
-- <strong>Y. Hu</strong>, M. N. Ivaki: Stability of the cone-volume measure with near constant density, <strong>IMRN.</strong>(2025) [[Link]](https://doi.org/10.1093/imrn/rnaf062)
+- <strong>Y. Hu</strong>, M. N. Ivaki: Stability of the cone-volume measure with near constant density, <strong>Int. Math. Res. Not. (IMRN)</strong>(2025) [[Link]](https://doi.org/10.1093/imrn/rnaf062)
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Prescribed Lp curvature problem, <strong>Adv. Math.</strong> 442(2024): #109566. [[Link]](https://doi.org/10.1016/j.aim.2024.109566)
 
