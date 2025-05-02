@@ -8,7 +8,7 @@ huyingxiang@buaa.edu.cn
 #### Education
 
 - 2006 - 2010: Zhejiang University, Bachelor,
-- 2010 - 2017: Zhejiang University, Ph.D. (under the supervision of Professor Hongwei Xu )
+- 2010 - 2017: Zhejiang University, Ph.D. (under the supervision of Prof. <strong>Hongwei Xu (许洪伟)</strong>(2025) [[Link]](https://person.zju.edu.cn/xuhw))
 - 2017 - 2020: Tsinghua University, Post-doc.
 - 2020 - present: Beihang University, Associate Professor.
 
