@@ -22,13 +22,13 @@ I am interested in geometric flows of hypersurfaces in Riemannian manifolds, esp
 
 #### My Collaborators
 
-- Haizhong Li from Tsinghua University
-- Hongwei Xu from Zhejiang University
+- Haizhong Li(李海中) from Tsinghua University
+- Hongwei Xu(许洪伟) from Zhejiang University
 - Ben Andrews from Austrilian National University
-- Yong Wei from University of Science and Technology of China
+- Yong Wei(韦勇) from University of Science and Technology of China
 - Mohammad N. Ivaki from Technische Universität Wien
 - Julian Scheuer from Goethe University Frankfurt
-- Chao Xia from Xiamen University
-- Shicheng Xu from Capital Normal University
-- Tailong Zhou from Sichuan University
+- Chao Xia(夏超) from Xiamen University
+- Shicheng Xu(胥世成) from Capital Normal University
+- Tailong Zhou(周泰龙) from Sichuan University
 - ...
