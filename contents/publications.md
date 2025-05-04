@@ -1,4 +1,4 @@
-1. Existence and uniqueness of solutions to geometric equations from convex geometry &ensp;|&ensp; 凸几何中几何PDE解的存在唯一性
+1. Existence and uniqueness of solutions to geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何PDE解的存在唯一性
 
 - <strong>Y. Hu</strong>, M. N. Ivaki, J. Scheuer: Capillary Christoffel-Minkowski problem, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2504.09320)
 
