@@ -18,4 +18,17 @@ huyingxiang@buaa.edu.cn
 
 #### Research Interests
 
-I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santalö type and Heintze-Karcher type inequalities in Riemannian manifolds. I am also interested in the existecen and uniqueness problem for geometric equations arising from convex geometry. 
+I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santalö type and Heintze-Karcher type inequalities in Riemannian manifolds. Now I am also interested in the existecen and uniqueness problem for geometric equations arising from convex geometry. 
+
+#### My Collaborators
+
+- Haizhong Li from Tsinghua University
+- Hongwei Xu from Zhejiang University
+- Ben Andrews from Austrilian National University
+- Yong Wei from University of Science and Technology of China
+- Mohammad N. Ivaki from Technische Universität Wien
+- Julian Scheuer from Goethe University Frankfurt
+- Chao Xia from Xiamen University
+- Shicheng Xu from Capital Normal University
+- Tailong Zhou from Sichuan University
+- ...
