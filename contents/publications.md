@@ -20,11 +20,13 @@
 
 - <strong>Y. Hu</strong>, Y. Chen, H. Li: Geometric inequalities for free boundary hypersurfaces in a ball, <strong>Ann. Glob. Anal. Geom.</strong> 62, 33--45 (2022).  [[Link]](https://doi.org/10.1007/s10455-022-09836-2)
 
-- <strong>Y. Hu</strong>, H. Li, Y. Wei: Locally constrained curvature flows and geometric inequalities in hyperbolic space. <strong>Math. Ann.</strong> 382, 1425--1474 (2022). [[Link]](https://doi.org/10.1007/s00208-020-02076-4)
+- <strong>Y. Hu</strong>, H. Li, Y. Wei: Locally constrained curvature flows and geometric inequalities in hyperbolic space, <strong>Math. Ann.</strong> 382, 1425--1474 (2022). [[Link]](https://doi.org/10.1007/s00208-020-02076-4)
 
-- B. Andrews, <strong>Y. Hu</strong>, H. Li: Locally constrained curvature flows and geometric inequalities in hyperbolic space. <strong>Adv. Math.</strong> 375(2020) 107393. [[Link]](https://doi.org/10.1016/j.aim.2020.107393)
+- B. Andrews, <strong>Y. Hu</strong>, H. Li: Harmonic mean curvature flow and geometric
+inequalities, <strong>Adv. Math.</strong> 375(2020) 107393. [[Link]](https://doi.org/10.1016/j.aim.2020.107393)
 
-
+- <strong>Y. Hu</strong>, H. Li: Geometric inequalities for hypersurfaces with nonnegative
+sectional curvature in hyperbolic space, <strong>Calc. Var. </strong> (2019) 58:55. [[Link]](https://doi.org/10.1007/s00526-019-1488-1)
 
 
 
