@@ -14,15 +14,14 @@ huyingxiang@buaa.edu.cn
 - 2017 - 2020: Tsinghua University(清华大学), Post-doc.
 - 2020 - present: Beihang University, Associate Professor.
 - 2023.09 - 2024.8: Technische Universität Wien(维也纳技术大学), Academic Visit to Prof. <strong>M. N. Ivaki</strong> [[Link]](https://sites.google.com/view/mohammadivaki/info)
-
-
+  
 #### Research Interests
 
-I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santalö type and Heintze-Karcher type inequalities in Riemannian manifolds. Now I am also interested in the existence and uniqueness problem for curvature equations arising from convex geometry. 
+I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santal\'o type and Heintze-Karcher type inequalities in Riemannian manifolds. Now I am also interested in the existence and uniqueness problem for curvature equations arising from convex geometry. 
 
 #### My Collaborators
 
-- Haizhong Li(李海中) from Tsinghua University
+- Haizhong Li(李海中) from Tsinghua University 
 - Hongwei Xu(许洪伟) from Zhejiang University
 - Ben Andrews from Austrilian National University
 - Yong Wei(韦勇) from University of Science and Technology of China
