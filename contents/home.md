@@ -7,7 +7,7 @@ huyingxiang@buaa.edu.cn
 
 #### Education
 
-- 2006 - 2010: Zhejiang University(浙江大学), Bachelor,
+- 2006 - 2010: Zhejiang University(浙江大学), Bachelor.
 - 2010 - 2017: Zhejiang University, Ph.D. (under the supervision of Prof. <strong>Hongwei Xu (许洪伟)</strong> [[Link]](https://person.zju.edu.cn/xuhw))
 
 #### Professional Experience
@@ -18,7 +18,7 @@ huyingxiang@buaa.edu.cn
 
 #### Research Interests
 
-I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santalö type and Heintze-Karcher type inequalities in Riemannian manifolds. Now I am also interested in the existecen and uniqueness problem for geometric equations arising from convex geometry. 
+I am interested in geometric flows of hypersurfaces in Riemannian manifolds, especially the applications to geometric inequalities including Alexandrov-Fenchel type, Blaschke-Santalö type and Heintze-Karcher type inequalities in Riemannian manifolds. Now I am also interested in the existence and uniqueness problem for curvature equations arising from convex geometry. 
 
 #### My Collaborators
 
