@@ -1,5 +1,7 @@
 1. Existence and uniqueness of solutions to geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何PDE解的存在唯一性
 
+- <strong>Y. Hu</strong>, M. N. Ivaki: Capillary curvature images, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2505.12921)
+
 - <strong>Y. Hu</strong>, M. N. Ivaki, J. Scheuer: Capillary Christoffel-Minkowski problem, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2504.09320)
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Stability of the cone-volume measure with near constant density, <strong>Int. Math. Res. Not. (IMRN)</strong>(2025) [[Link]](https://doi.org/10.1093/imrn/rnaf062)
