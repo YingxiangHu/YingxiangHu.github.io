@@ -1,4 +1,4 @@
-1. <strong>Existence and uniqueness of solutions to geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何PDE解的存在唯一性</strong>
+1. Geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何偏微分方程 </strong>
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Capillary curvature images, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2505.12921)
 
