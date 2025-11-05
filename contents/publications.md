@@ -1,4 +1,4 @@
-1. Geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何偏微分方程 </strong>
+1. <strong> Geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何偏微分方程 </strong>
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Capillary curvature images, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2505.12921)
 
