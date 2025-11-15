@@ -1,4 +1,4 @@
-唯有热爱, 科迪岁月漫长.
+唯有热爱, 可抵岁月漫长, 下一阶段的目标: 做一些有趣的数学. 
 
 Yingxiang Hu (胡鹰翔) is currently associate professor in School of Mathematical Sciences, Beihang University(北京航空航天大学), Beijing, China. 
 
