@@ -1,5 +1,6 @@
+唯有热爱, 科迪岁月漫长.
 
-Yingxiang Hu is currently associate professor in School of Mathematical Sciences, Beihang University(北京航空航天大学), Beijing, China. 
+Yingxiang Hu (胡鹰翔) is currently associate professor in School of Mathematical Sciences, Beihang University(北京航空航天大学), Beijing, China. 
 
 #### Email
 
