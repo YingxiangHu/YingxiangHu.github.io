@@ -1,3 +1,5 @@
+Selected Publications
+
 1. <strong> Geometric PDEs from convex geometry &ensp;|&ensp; 凸几何中几何偏微分方程 </strong>
 
 - <strong>Y. Hu</strong>, M. N. Ivaki: Capillary $L_p$-curvature problem, <strong>arXiv:</strong>(2026) [[Link]](https://arxiv.org/pdf/2602.21832)
