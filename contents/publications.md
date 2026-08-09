@@ -22,7 +22,7 @@ Selected Publications
 
 - J. Hu, <strong>Y. Hu</strong>, M. N. Ivaki: Capillary Lp Minkowski flows, <strong>arXiv:</strong>(2025) [[Link]](https://arxiv.org/pdf/2509.06110)
 
-- C. Cabezas-Moreno, <strong>Y. Hu</strong>, M. N. Ivaki: On the conjectured capillary Blaschke-Santaló inequality <strong> Mathematika:</strong>(2026) [[Link]](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/mtk.70109)
+- C. Cabezas-Moreno, <strong>Y. Hu</strong>, M. N. Ivaki: On the conjectured capillary Blaschke-Santaló inequality, <strong> Mathematika:</strong>(2026) [[Link]](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/mtk.70109)
   
 - <strong>Y. Hu</strong>, Y. Wei, C. Xia, T. L. Zhou: A Heintze-Karcher-type inequality for capillary hypersurfaces in a hyperbolic half-space, <strong>J. Funct. Anal.</strong>(2025) [[Link]](https://doi.org/10.1016/j.jfa.2025.110970)
 
